@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-ceintl.vscode-language-pack-ja",
+
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+
+    "humao.rest-client"
+  ]
+}

@@ -2,6 +2,7 @@
   "editor.tabSize": 2,
   "editor.fontFamily": "HackGen, Consolas, 'Courier New', monospace",
   "editor.formatOnSave": true,
+  "editor.minimap.enabled": false
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
   "extensions.ignoreRecommendations": false,

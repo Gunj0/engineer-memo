@@ -5,6 +5,7 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
 
-    "humao.rest-client"
+    "humao.rest-client",
+    "hookyqr.minify"
   ]
 }

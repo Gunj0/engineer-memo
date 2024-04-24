@@ -1,11 +1,24 @@
 {
   "recommendations": [
+    // 日本語化
     "ms-ceintl.vscode-language-pack-ja",
 
+    // Perttier（フォーマッタ）
     "esbenp.prettier-vscode",
+    // ESLint（構文解析＋フォーマッタ）
     "dbaeumer.vscode-eslint",
 
+    // Draw.io（製図）
+    "hediet.vscode-drawio",
+    // APIクライアント
     "humao.rest-client",
-    "hookyqr.minify"
+    // ミニファイ
+    "hookyqr.minify",
+    // SQLiteクライアント
+    "qwtel.sqlite-viewer",
+    // API設計書作成ツール
+    "arjun.swagger-viewer",
+    // YAMLファイルサポート
+    "redhat.vscode-yaml"
   ]
 }

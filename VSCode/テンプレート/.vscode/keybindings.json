@@ -1,0 +1,12 @@
+[
+  // ctrl+7 で7番目のエディタへのフォーカスを無効化
+  {
+    "key": "ctrl+7",
+    "command": "-workbench.action.focusSeventhEditorGroup"
+  },
+  // ctrl+7 でターミナルへフォーカスする
+  {
+    "key": "ctrl+7",
+    "command": "terminal.focus"
+  }
+]

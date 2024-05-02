@@ -19,6 +19,8 @@
   "git.confirmSync": false,
   // ステージされた変更がない場合に全ての変更をコミットする
   "git.enableSmartCommit": true,
+  // コミットしたら自動プッシュする
+  "git.postCommitCommand": "push",
 
   // ダークモダンテーマにする
   "workbench.colorTheme": "Default Dark Modern",
@@ -34,6 +36,11 @@
 
   // レッドハットの情報収集をオフにする
   "redhat.telemetry.enabled": false,
+
+  // Draw.ioのリサイズ確認をオフにする
+  "hediet.vscode-drawio.resizeImages": null,
+  // Draw.ioのテーマを見やすくする
+  "hediet.vscode-drawio.theme": "Kennedy",
 
   // リリースノート表示をなしにする
   "update.showReleaseNotes": false,

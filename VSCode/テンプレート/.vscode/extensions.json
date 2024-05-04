@@ -8,6 +8,11 @@
     // ESLint（構文解析＋フォーマッタ）
     "dbaeumer.vscode-eslint",
 
+    // マークダウンサポート
+    "yzhang.markdown-all-in-one",
+    // マークダウンの静的解析
+    "DavidAnson.vscode-markdownlint",
+
     // Draw.io（製図）
     "hediet.vscode-drawio",
     // APIクライアント

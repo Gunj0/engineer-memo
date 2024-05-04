@@ -27,6 +27,8 @@
 
     // SQLクライアント+フォーマッタ
     "mtxr.sqltools",
+    // Mysqlドライバ
+    "mtxr.sqltools-driver-mysql",
     // MySQLのコード補完
     "nespinozacr.mysql-autocomplete",
 

@@ -29,6 +29,9 @@
   // 起動時のデフォルトページをなしにする
   "workbench.startupEditor": "none",
 
+  // デフォルトターミナルをPowershellにする
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+
   // 削除確認をなしにする
   "explorer.confirmDelete": false,
   // ドラッグドロップ確認をなしにする

@@ -7,6 +7,8 @@
     "esbenp.prettier-vscode",
     // ESLint（構文解析＋フォーマッタ）
     "dbaeumer.vscode-eslint",
+    // スペルチェック
+    "streetsidesoftware.code-spell-checker",
 
     // マークダウンサポート
     "yzhang.markdown-all-in-one",
@@ -15,15 +17,18 @@
 
     // Draw.io（製図）
     "hediet.vscode-drawio",
+
     // APIクライアント
     "humao.rest-client",
-    // ミニファイ
-    "hookyqr.minify",
-    // SQLiteクライアント
-    "qwtel.sqlite-viewer",
-    // API設計書作成ツール
+    // OpenAPI設計書作成ツール
     "arjun.swagger-viewer",
     // YAMLファイルサポート
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+
+    // SQLiteクライアント
+    "qwtel.sqlite-viewer",
+
+    // ミニファイ
+    "hookyqr.minify"
   ]
 }

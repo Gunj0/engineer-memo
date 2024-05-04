@@ -25,8 +25,13 @@
     // YAMLファイルサポート
     "redhat.vscode-yaml",
 
-    // SQLiteクライアント
-    "qwtel.sqlite-viewer",
+    // SQLクライアント+フォーマッタ
+    "mtxr.sqltools",
+    // MySQLのコード補完
+    "nespinozacr.mysql-autocomplete",
+
+    // PowerShellツール
+    "ms-vscode.powershell",
 
     // ミニファイ
     "hookyqr.minify"

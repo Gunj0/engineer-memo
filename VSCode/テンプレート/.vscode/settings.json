@@ -9,6 +9,10 @@
   "editor.minimap.enabled": false,
   // タブサイズを空白2個にする
   "editor.tabSize": 2,
+  // SQLのフォーマットはSQLToolsを使用する
+  "[sql]": {
+    "editor.defaultFormatter": "mtxr.sqltools"
+  },
 
   // 拡張機能を推奨する
   "extensions.ignoreRecommendations": false,

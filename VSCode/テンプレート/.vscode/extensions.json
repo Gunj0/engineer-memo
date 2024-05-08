@@ -15,6 +15,9 @@
     // マークダウンの静的解析
     "DavidAnson.vscode-markdownlint",
 
+    // Git機能拡張
+    "eamodio.gitlens",
+    
     // Draw.io（製図）
     "hediet.vscode-drawio",
 
@@ -27,7 +30,7 @@
 
     // SQLクライアント+フォーマッタ
     "mtxr.sqltools",
-    // Mysqlドライバ
+    // MySqlドライバ
     "mtxr.sqltools-driver-mysql",
     // MySQLのコード補完
     "nespinozacr.mysql-autocomplete",

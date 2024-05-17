@@ -28,12 +28,8 @@
     // YAMLファイルサポート
     "redhat.vscode-yaml",
 
-    // SQLクライアント+フォーマッタ
-    "mtxr.sqltools",
-    // MySqlドライバ
-    "mtxr.sqltools-driver-mysql",
-    // MySQLのコード補完
-    "nespinozacr.mysql-autocomplete",
+    // SQLiteエディター
+    "yy0931.vscode-sqlite3-editor",
 
     // PowerShellツール
     "ms-vscode.powershell",

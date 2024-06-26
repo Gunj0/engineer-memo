@@ -2,11 +2,11 @@
 
 ## Overview
 
-- {Name} は、～です。
+- 説明です。
 
 ## Demo
 
-- デモ動画や図解
+- デモ動画や図解（あれば）
 
 ## Features
 
@@ -28,9 +28,15 @@ git clone https://github.com/Gunj0/ts-sample.git
 
 ### basic
 
+- Node.js
+
 ### dependencies
 
+- express
+
 ### devDependencies
+
+- typescript
 
 ## Author
 

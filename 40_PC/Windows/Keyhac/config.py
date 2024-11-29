@@ -5,42 +5,18 @@ import datetime
 import pyauto
 from keyhac import *
 
-
 def configure(keymap):
+    # 管理者権限で起動すること！！！
+    # 他のアプリのショートカットが優先されることがあるため
 
+    # 現在のキーマップを取得
     keymap_global = keymap.defineWindowKeymap()
 
-    # 右Ctrl(CapsLock)を置き換え
+    # 左Ctrlキーを仮想キー置き換え
     keymap.replaceKey( "LCtrl", 255 )
 
-    # ホットキー化
+    # 仮想キーをホットキー化
     keymap.defineModifier( 255, "User0" )
-
-    # USER0-Up/Down/Left/Right
-    keymap_global["U0-I"] = "Up"
-    keymap_global["U0-J"] = "Left"
-    keymap_global["U0-K"] = "Down"
-    keymap_global["U0-L"] = "Right"
-
-    # USER0-Shift-Up/Down/Left/Right
-    keymap_global["U0-Shift-I"] = "Shift-Up"
-    keymap_global["U0-Shift-J"] = "Shift-Left"
-    keymap_global["U0-Shift-K"] = "Shift-Down"
-    keymap_global["U0-Shift-L"] = "Shift-Right"
-
-    # USER0-Win-Up/Down/Left/Right
-    keymap_global["U0-Win-I"] = "Win-Up"
-    keymap_global["U0-Win-J"] = "Win-Left"
-    keymap_global["U0-Win-K"] = "Win-Down"
-    keymap_global["U0-Win-L"] = "Win-Right"
-
-
-# 以下は弥生PC用
-    # 左ctrlキーをモディファイアキー(U0)に登録
-    keymap.replaceKey("RAlt", 255)
-    keymap.defineModifier(255, "User0")
-
-    keymap_global = keymap.defineWindowKeymap()
     
     # カーソル
     keymap_global[ "U0-I" ] = keymap.InputKeyCommand("Up")
@@ -71,6 +47,12 @@ def configure(keymap):
     keymap_global[ "U0-LWin-K" ] = keymap.InputKeyCommand("LWin-Down")
     keymap_global[ "U0-LWin-J" ] = keymap.InputKeyCommand("LWin-Left")
     keymap_global[ "U0-LWin-L" ] = keymap.InputKeyCommand("LWin-Right")
+    
+    # カーソル+Alt
+    keymap_global[ "U0-Alt-I" ] = keymap.InputKeyCommand("Alt-Up")
+    keymap_global[ "U0-Alt-K" ] = keymap.InputKeyCommand("Alt-Down")
+    keymap_global[ "U0-Alt-J" ] = keymap.InputKeyCommand("Alt-Left")
+    keymap_global[ "U0-Alt-L" ] = keymap.InputKeyCommand("Alt-Right")
     
     # DELETE=Ctrl+Back
     keymap_global[ "U0-Back" ] = keymap.InputKeyCommand("Delete")

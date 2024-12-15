@@ -1,3 +1,4 @@
+// 拡張機能
 {
   "recommendations": [
     // 日本語化
@@ -17,7 +18,7 @@
 
     // Git機能拡張
     "eamodio.gitlens",
-    
+
     // Draw.io（製図）
     "hediet.vscode-drawio",
 

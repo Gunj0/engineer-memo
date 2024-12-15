@@ -1,3 +1,5 @@
+# 「config.py」に上書きする, 管理者権限で起動するようにしておく
+
 import sys
 import os
 import datetime

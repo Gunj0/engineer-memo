@@ -22,7 +22,6 @@
 
 ### デザインパターン
 
-- [デザインパターン２：Adapter,Singleton,Observer【C#】](https://yayoi-kkjp.udemy.com/course/design02)
 - [デザインパターン３：Composite，Abstract Factory，Factory Method ...【C#】](https://yayoi-kkjp.udemy.com/course/design03)
 - [デザインパターン４：State，Decorator，Bridge【C#】](https://yayoi-kkjp.udemy.com/course/design04)
 - [デザインパターン５：Command，NullObject，Builder【C#】](https://yayoi-kkjp.udemy.com/course/design05)
@@ -85,6 +84,7 @@
 ### デザインパターン-視聴済み
 
 - [デザインパターン１：デザインパターンを学ぶ準備とクラス図とファサードパターン【C#】](https://yayoi-kkjp.udemy.com/course/design01)
+- [デザインパターン２：Adapter,Singleton,Observer【C#】](https://yayoi-kkjp.udemy.com/course/design02)
 
 ## 見なくてよいかも
 

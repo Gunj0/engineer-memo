@@ -22,7 +22,6 @@
 
 ### デザインパターン
 
-- [デザインパターン３：Composite，Abstract Factory，Factory Method ...【C#】](https://yayoi-kkjp.udemy.com/course/design03)
 - [デザインパターン４：State，Decorator，Bridge【C#】](https://yayoi-kkjp.udemy.com/course/design04)
 - [デザインパターン５：Command，NullObject，Builder【C#】](https://yayoi-kkjp.udemy.com/course/design05)
 
@@ -55,13 +54,12 @@
 
 ### その他
 
-- [ピーコックアンダーソンのプログラマー仕事の流儀](https://yayoi-kkjp.udemy.com/course/jobstyle/)
+- [C#でサービスプログラムを作成して 処理を自動化する方法](https://yayoi-kkjp.udemy.com/course/cs_service/)
 - [C#の自作クラスライブラリを NuGet パッケージでバージョン管理する方法](https://yayoi-kkjp.udemy.com/course/nugetpkg/)
 - [C#アプリケーションをリリースする方法【インストーラー＆ClickOnce】](https://yayoi-kkjp.udemy.com/course/setupproject/)
 - [VisualStudio で Git＆GitHub を使ってソースコードを管理する方法【C#】](https://yayoi-kkjp.udemy.com/course/vsgithub/)
 - [C#で帳票ライブラリを使って印刷プログラムを作る方法](https://yayoi-kkjp.udemy.com/course/cs_print/)
 - [C#でモダンな UI を作る方法：MetroFramework を使って Windows フォームをオシャレにする](https://yayoi-kkjp.udemy.com/course/metroframework/)
-- [C#でサービスプログラムを作成して 処理を自動化する方法](https://yayoi-kkjp.udemy.com/course/cs_service/)
 - [C#で描画をする方法：自由に線や〇を描いて自前のグラフなどを作る方法](https://yayoi-kkjp.udemy.com/course/cs-byouga/)
 
 ## 視聴済み
@@ -85,6 +83,11 @@
 
 - [デザインパターン１：デザインパターンを学ぶ準備とクラス図とファサードパターン【C#】](https://yayoi-kkjp.udemy.com/course/design01)
 - [デザインパターン２：Adapter,Singleton,Observer【C#】](https://yayoi-kkjp.udemy.com/course/design02)
+- [デザインパターン３：Composite，Abstract Factory，Factory Method ...【C#】](https://yayoi-kkjp.udemy.com/course/design03)
+
+### その他-視聴済み
+
+- [ピーコックアンダーソンのプログラマー仕事の流儀](https://yayoi-kkjp.udemy.com/course/jobstyle/)
 
 ## 見なくてよいかも
 

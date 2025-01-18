@@ -1,4 +1,4 @@
-# {リポジトリ名}
+# Sample
 
 ## Overview
 

@@ -21,19 +21,22 @@
 - [microCMS](https://microcms.io/)
   - ヘッドレス CMS
 
-## 解析
+## Analytics
 
 - [Google Analytics](https://developers.google.com/analytics?hl=ja)
   - アクセス解析
 
-## デザイン
+## Design
 
 - [Figma](https://www.figma.com/ja-jp/)
+- [Storybook](https://storybook.js.org/)
 
-## ブラウザ
+## Browser
 
-- Selenium
-  - ブラウザ自動化ツール
+- [Playwright](https://playwright.dev/)
+  - Microsoft 製
+- [Selenium](https://www.selenium.dev/ja/documentation/)
+  - OSS
 
 ## Game
 
@@ -42,18 +45,18 @@
 - [Unreal Engine](https://www.unrealengine.com/ja)
   - C 言語
 
-## インフラ
+## IaC
 
 - [Terraform](https://www.terraform.io/)
   - Infrastructure as Code, インフラ自動構築ツール
 
-## 決済
+## Payment
 
 - [Stripe](https://stripe.com/jp)
 - [Square](https://squareup.com/jp/ja)
 - [Paypal](https://www.paypal.com/jp/home)
 
-## クエリ
+## Query
 
 - [GraphQL](https://graphql.org/)
   - API 向けに作られたクエリ言語およびランタイム

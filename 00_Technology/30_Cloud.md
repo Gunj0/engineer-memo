@@ -1,20 +1,20 @@
-# クラウドサービス
+# Cloud
 
 ## IaaS: インフラ
 
-- [AWS](https://aws.amazon.com/jp/)
+- [Amazon Web Services](https://aws.amazon.com/jp/)
   - サーバ: Amazon EC2
   - サーバーレス: AWS Lambda
   - ネットワーク: Amazon VPC
   - ストレージ: Amazon S3 (Simple Storage Service)
   - ホスティング: [AWS Elastic Beanstalk](https://aws.amazon.com/jp/elasticbeanstalk/)
-- [Azure](https://azure.microsoft.com/ja-jp)
+- [Microsoft Azure](https://azure.microsoft.com/ja-jp)
   - サーバ: Azure Virtual Machines
   - サーバーレス: Azure Functions
   - ネットワーク: Azure Virtual Network (VNet)
   - ストレージ: Azure Blob Storage
   - ホスティング: [Azure App Service](https://azure.microsoft.com/ja-jp/products/app-service)
-- [GCP](https://cloud.google.com/)
+- [Google Cloud](https://cloud.google.com/)
   - サーバ: Google Compute Engine
   - サーバーレス: Google Cloud Functions
   - ネットワーク: Google Cloud VPC
@@ -25,7 +25,7 @@
 
 - [Vercel](https://vercel.com/)
   - ホスティング, React/Next.js 特化
-- [DigitalOcean](https://www.digitalocean.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
   - ホスティング
 - [Heroku](https://jp.heroku.com/)
   - ホスティング
@@ -36,8 +36,6 @@
 
 - [Firebase](https://firebase.google.com/?hl=ja)
   - DB, 認証, 解析, ストレージ, Google 製
-- [AWS Amplify](https://aws.amazon.com/jp/amplify/)
-  - Amazon 製
 - [Supabase](https://supabase.com/)
   - Firebase 代替, PostgreSQL 基盤
 

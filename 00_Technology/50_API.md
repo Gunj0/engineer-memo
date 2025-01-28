@@ -1,4 +1,4 @@
-# 便利サイト
+# API
 
 - [Random User Generator](https://randomuser.me/)
   - ランダムな架空ユーザー情報の json を返す

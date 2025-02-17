@@ -3,7 +3,7 @@
 ## コーディングルール
 
 - [リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/)
-  - 持ってる, 文法の物理的に美しいコード
+  - 持ってる, 文法の物理的に美しいコードが分かる
 
 ## オブジェクト指向
 
@@ -45,23 +45,14 @@
 - [オブジェクト指向のこころ](https://www.maruzen-publishing.co.jp/item/?book_no=294729)
   - 同上
 
-## アーキテクチャ
+## 設計
 
 - [Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656)
-  - 依存性逆転の法則の説明等がある
+  - 依存性逆転の法則の説明等がある, オニオン図
 - [良いコード／悪いコードで学ぶ設計入門](https://www.amazon.co.jp/gp/aw/d/B09Y1MWK9N)
-- [プリンシプル オブ プログラミング](https://www.amazon.co.jp/gp/aw/d/B071V7MY82)
+- [マイクロサービスアーキテクチャ](https://www.amazon.co.jp/dp/4873117607)
 
 ## リファクタリング
 
 - [リファクタリング: 既存のコードを安全に改善する](https://www.ohmsha.co.jp/book/9784274224546/)
   - サンプルは Java
-
-## 心得
-
-- [達人プログラマー 熟達に向けたあなたの旅 第 2 版](https://www.ohmsha.co.jp/book/9784274226298/)
-
-## 参考
-
-- [C#を勉強する順番](https://yayoi-kkjp.udemy.com/course/cs-study7step/)
-  - ピーコック アンダーソン

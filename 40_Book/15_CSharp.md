@@ -15,8 +15,3 @@
 
 - [.NET のクラスライブラリ設計](https://bookplus.nikkei.com/atcl/catalog/21/S80040/)
   - 必読, 開発チーム直伝, ほとんどこれで理解できる, 名前の付け方とか
-
-## 参考
-
-- [C#を勉強する順番](https://yayoi-kkjp.udemy.com/course/cs-study7step/)
-  - ピーコック アンダーソン

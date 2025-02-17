@@ -47,13 +47,19 @@
 
 ## アーキテクチャ
 
-- [クリーンアーキテクチャ](https://www.amazon.co.jp/dp/4048930656)
+- [Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656)
   - 依存性逆転の法則の説明等がある
+- [良いコード／悪いコードで学ぶ設計入門](https://www.amazon.co.jp/gp/aw/d/B09Y1MWK9N)
+- [プリンシプル オブ プログラミング](https://www.amazon.co.jp/gp/aw/d/B071V7MY82)
 
 ## リファクタリング
 
 - [リファクタリング: 既存のコードを安全に改善する](https://www.ohmsha.co.jp/book/9784274224546/)
   - サンプルは Java
+
+## 心得
+
+- [達人プログラマー 熟達に向けたあなたの旅 第 2 版](https://www.ohmsha.co.jp/book/9784274226298/)
 
 ## 参考
 

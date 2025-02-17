@@ -9,6 +9,7 @@
 - [C#文法：C#でラムダ式を書く方法 Part2【LINQ のクエリ構文とラムダ式マスター編】](https://yayoi-kkjp.udemy.com/course/lambda02/)
 - [C#文法：ジェネリック](https://yayoi-kkjp.udemy.com/course/generics/)
 - [C#文法：C#で非同期プログラミングをする方法](https://yayoi-kkjp.udemy.com/course/cs-asyncawait-1/)
+- [Blazor で Web アプリケーションを作る方法１【C#】](https://yayoi-kkjp.udemy.com/course/blazor01/)
 
 ### 中級
 

@@ -5,6 +5,7 @@
 ### 基礎
 
 - [C#文法１：C#で最初に身に着けるべき 30 の文法](https://yayoi-kkjp.udemy.com/course/cskihonnoki)
+  - C#の基礎文法。例外処理まであるのでちょっと中級まで。
 - [C#文法：C#でラムダ式を書く方法 Part1【基礎編】](https://yayoi-kkjp.udemy.com/course/lambda01/)
 - [C#文法：C#でラムダ式を書く方法 Part2【LINQ のクエリ構文とラムダ式マスター編】](https://yayoi-kkjp.udemy.com/course/lambda02/)
 - [C#文法：ジェネリック](https://yayoi-kkjp.udemy.com/course/generics/)
@@ -89,9 +90,11 @@
 ### その他-視聴済み
 
 - [ピーコックアンダーソンのプログラマー仕事の流儀](https://yayoi-kkjp.udemy.com/course/jobstyle/)
+  - 自分と同じ思想。変換無変換など。
 
-## 見なくてよいかも
+## 視聴不要
 
-### 基礎-見なくてもいいかも
+### 基礎-視聴不要
 
 - [経験ゼロから C#プログラミングがある程度出来るようになる方法【Windows Forms 編】](https://yayoi-kkjp.udemy.com/course/winforminit/)
+  - ほぼ Windows フォームの紹介

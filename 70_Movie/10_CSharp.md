@@ -4,8 +4,6 @@
 
 ### 基礎
 
-- [C#文法１：C#で最初に身に着けるべき 30 の文法](https://yayoi-kkjp.udemy.com/course/cskihonnoki)
-  - C#の基礎文法。例外処理まであるのでちょっと中級まで。
 - [C#文法：C#でラムダ式を書く方法 Part1【基礎編】](https://yayoi-kkjp.udemy.com/course/lambda01/)
 - [C#文法：C#でラムダ式を書く方法 Part2【LINQ のクエリ構文とラムダ式マスター編】](https://yayoi-kkjp.udemy.com/course/lambda02/)
 - [C#文法：ジェネリック](https://yayoi-kkjp.udemy.com/course/generics/)
@@ -68,6 +66,8 @@
 
 ### 基礎-視聴済み
 
+- [C#文法１：C#で最初に身に着けるべき 30 の文法](https://yayoi-kkjp.udemy.com/course/cskihonnoki)
+  - C#の基礎文法, 例外処理だけ視聴
 - [C#を勉強する順番](https://yayoi-kkjp.udemy.com/course/cs-study7step)
   - C#だけでなくプログラミングを学ぶ上での順番や書籍紹介
 - [VisualStudio デバッグ技法【C#】](https://yayoi-kkjp.udemy.com/course/debug_cs)

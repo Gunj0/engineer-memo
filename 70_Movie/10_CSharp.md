@@ -7,8 +7,6 @@
 - [C#文法：C#でラムダ式を書く方法 Part1【基礎編】](https://yayoi-kkjp.udemy.com/course/lambda01/)
 - [C#文法：C#でラムダ式を書く方法 Part2【LINQ のクエリ構文とラムダ式マスター編】](https://yayoi-kkjp.udemy.com/course/lambda02/)
 - [C#文法：ジェネリック](https://yayoi-kkjp.udemy.com/course/generics/)
-- [C#文法：C#で非同期プログラミングをする方法](https://yayoi-kkjp.udemy.com/course/cs-asyncawait-1/)
-- [Blazor で Web アプリケーションを作る方法１【C#】](https://yayoi-kkjp.udemy.com/course/blazor01/)
 
 ### 中級
 
@@ -37,12 +35,6 @@
 - [C#でドメイン駆動開発 パート３【C#の WPF で Prism を使って MVVM で実装する方法】](https://yayoi-kkjp.udemy.com/course/ddd-prism/)
 - [C#でドメイン駆動開発パート４【EntityFrameworkCore+DDD】](https://yayoi-kkjp.udemy.com/course/efcoreddd/)
 - [C#の Windows フォームで MVVM をする方法：一緒に作る Window フォームの MVVM フレームワーク](https://yayoi-kkjp.udemy.com/course/anderson_mvvm/)
-
-### XAML
-
-- [C#の WPF で XAML を書く方法](https://yayoi-kkjp.udemy.com/course/wpf-xaml/)
-- [C#の Xamarin.Forms を使って Android で動作するスマホアプリを作る方法](https://yayoi-kkjp.udemy.com/course/xamarin-1/)
-- [C#の Xamarin.Forms を Prism を使って MVVM で実装する方法](https://yayoi-kkjp.udemy.com/course/peacock-xamarin-prism/)
 
 ### DB
 
@@ -74,6 +66,8 @@
   - VS でのブレークポイント, Debug メソッドの使い方等
 - [C#のコーディングルール：スタイルコップアナライザーを使ってチーム全員が同じコードを書く](https://yayoi-kkjp.udemy.com/course/cs_coding_rules/)
   - StyleCop.Analyzer の使い方
+- [C#文法：C#で非同期プログラミングをする方法](https://yayoi-kkjp.udemy.com/course/cs-asyncawait-1/)
+  - 3 段階の非同期処理の書き方の進化と、キャンセルトークンの書き方
 
 ### オブジェクト指向-視聴済み
 
@@ -94,7 +88,11 @@
 
 ## 視聴不要
 
-### 基礎-視聴不要
-
 - [経験ゼロから C#プログラミングがある程度出来るようになる方法【Windows Forms 編】](https://yayoi-kkjp.udemy.com/course/winforminit/)
   - ほぼ Windows フォームの紹介
+- [Blazor で Web アプリケーションを作る方法１【C#】](https://yayoi-kkjp.udemy.com/course/blazor01/)
+  - Blazor を使うことはなさそう
+- [C#の WPF で XAML を書く方法](https://yayoi-kkjp.udemy.com/course/wpf-xaml/)
+- [C#の Xamarin.Forms を使って Android で動作するスマホアプリを作る方法](https://yayoi-kkjp.udemy.com/course/xamarin-1/)
+- [C#の Xamarin.Forms を Prism を使って MVVM で実装する方法](https://yayoi-kkjp.udemy.com/course/peacock-xamarin-prism/)
+  - XAML を使うことはなさそう

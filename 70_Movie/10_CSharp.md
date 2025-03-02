@@ -30,7 +30,6 @@
 
 ### DDD
 
-- [C#でドメイン駆動開発パート１【C#でドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法】](https://yayoi-kkjp.udemy.com/course/domain-1/)
 - [C#でドメイン駆動開発 パート２](https://yayoi-kkjp.udemy.com/course/domain-2/)
 - [C#でドメイン駆動開発 パート３【C#の WPF で Prism を使って MVVM で実装する方法】](https://yayoi-kkjp.udemy.com/course/ddd-prism/)
 - [C#でドメイン駆動開発パート４【EntityFrameworkCore+DDD】](https://yayoi-kkjp.udemy.com/course/efcoreddd/)
@@ -80,6 +79,10 @@
 - [デザインパターン１：デザインパターンを学ぶ準備とクラス図とファサードパターン【C#】](https://yayoi-kkjp.udemy.com/course/design01)
 - [デザインパターン２：Adapter,Singleton,Observer【C#】](https://yayoi-kkjp.udemy.com/course/design02)
 - [デザインパターン３：Composite，Abstract Factory，Factory Method ...【C#】](https://yayoi-kkjp.udemy.com/course/design03)
+
+### DDD-視聴済み
+
+- [C#でドメイン駆動開発パート１【C#でドメイン駆動開発とテスト駆動開発を使って保守性の高いプログラミングをする方法】](https://yayoi-kkjp.udemy.com/course/domain-1/)
 
 ### その他-視聴済み
 

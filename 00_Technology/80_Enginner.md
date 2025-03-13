@@ -2,8 +2,12 @@
 
 ## 日本
 
+- [catnose](https://catnose.me/)
+  - エンジニア兼デザイナー, Zenn, 静かなインターネット 開発
+- [なるがみ](https://x.com/nalgami)
+  - skeb 開発
 - [まつもとゆきひろ](https://matz.rubyist.net/)
-  - Ruby 開発者
+  - Ruby 開発者, Matz
 - 金子勇
   - 故人, Winny 開発
 - 岩田聡
@@ -18,7 +22,6 @@
   - パックマン開発
 - 伊藤淳一
   - Rails コアコミッター
-- 佐々木陽
   - selenium 開発
 - 濱野純
   - Google
@@ -28,7 +31,8 @@
   - OpenStreetMap 開発
 - [登大遊](http://dnobori.cs.tsukuba.ac.jp/ja/)
   - SoftEther VPN
--
+- [西村博之](https://x.com/hirox246)
+  - 2ch 開発
 
 ## 海外
 
@@ -36,8 +40,7 @@
   - アジャイル開発考案
 - Gang of Four
   - デザインパターン考案
-- スティーブ・ジョブズ
-  -
+- ## スティーブ・ジョブズ
 
 ## 参考
 

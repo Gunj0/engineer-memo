@@ -16,6 +16,10 @@
 
 ## CMS
 
+- [WordPress](https://wordpress.com/ja/)
+  - CMS
+- [Drupal](https://new.drupal.org/)
+  - CMS
 - [Strapi](https://strapi.io/)
   - OSS, ヘッドレス CMS, Node.js
 - [microCMS](https://microcms.io/)
@@ -45,18 +49,13 @@
 - [Unreal Engine](https://www.unrealengine.com/ja)
   - C 言語
 
-## IaC
+## IaC: Infrastructure as Code
 
 - [Terraform](https://www.terraform.io/)
-  - Infrastructure as Code, インフラ自動構築ツール
+  - インフラコーディング
 
 ## Payment
 
 - [Stripe](https://stripe.com/jp)
 - [Square](https://squareup.com/jp/ja)
 - [Paypal](https://www.paypal.com/jp/home)
-
-## Query
-
-- [GraphQL](https://graphql.org/)
-  - API 向けに作られたクエリ言語およびランタイム

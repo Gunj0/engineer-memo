@@ -71,3 +71,4 @@
 ## 参考
 
 - [Stack OverFlow Survey 2024](https://survey.stackoverflow.co/2024/technology)
+  - このランキングに載っている以外の技術はここには載せていません。

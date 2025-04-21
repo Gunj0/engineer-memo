@@ -1,15 +1,15 @@
 # ネットワーク
 
-- [Web を支える技術 ―― HTTP，URI，HTML，そして REST](https://gihyo.jp/book/2010/978-4-7741-4204-3)
-  - 2010/4/8, 山本陽平, 技術評論社, 400p, ¥2827
-- [Web API: The Good Parts](https://www.oreilly.co.jp/books/9784873116860/)
-  - 2014/11, 水野貴明, O’Reilly, 224p, ¥2420
-- [マスタリング TCP/IP 入門編（第 6 版）](https://www.ohmsha.co.jp/book/9784274224478/)
+- [ ] [［改訂新版］プロになるための Web 技術入門](https://gihyo.jp/book/2024/978-4-297-14571-2)
+  - 2024/11/28, 小森裕介, 技術評論社, 528p, ¥3960
+- [ ] [マスタリング TCP/IP 入門編（第 6 版）](https://www.ohmsha.co.jp/book/9784274224478/)
   - 2019/12/1, 井上直也/村山公保/竹下隆史/荒井透/苅田幸雄, オーム社, 400p, ¥2420
   - ネットワークの仕組み
-- [ネットワークはなぜつながるのか 第２版 知っておきたい TCP/IP、LAN、光ファイバの基礎知識](https://bookplus.nikkei.com/atcl/catalog/07/P83110/)
-  - 2007/4/16, 戸根勤, 日経 BP, 448p, ¥2640
-- [［改訂新版］プロになるための Web 技術入門](https://gihyo.jp/book/2024/978-4-297-14571-2)
-  - 2024/11/28, 小森裕介, 技術評論社, 528p, ¥3960
-- [イラスト図解式 この一冊で全部わかる Web 技術の基本](https://www.sbcr.jp/product/4797388817/)
+- [ ] [イラスト図解式 この一冊で全部わかる Web 技術の基本](https://www.sbcr.jp/product/4797388817/)
   - 2017/3/16, NRI ネットコム株式会社/小林恭平/坂本陽, SB Creative, 192p, ¥1848
+- [ ] [Web API: The Good Parts](https://www.oreilly.co.jp/books/9784873116860/)
+  - 2014/11, 水野貴明, O’Reilly, 224p, ¥2420
+- [x] [Web を支える技術 ―― HTTP，URI，HTML，そして REST](https://gihyo.jp/book/2010/978-4-7741-4204-3)
+  - 2010/4/8, 山本陽平, 技術評論社, 400p, ¥2827
+- [ ] [ネットワークはなぜつながるのか 第２版 知っておきたい TCP/IP、LAN、光ファイバの基礎知識](https://bookplus.nikkei.com/atcl/catalog/07/P83110/)
+  - 2007/4/16, 戸根勤, 日経 BP, 448p, ¥2640

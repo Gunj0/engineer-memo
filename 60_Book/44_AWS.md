@@ -1,10 +1,10 @@
 # AWS
 
-- [徹底攻略 AWS 認定 ソリューションアーキテクト − アソシエイト教科書 第 3 版［SAA-C03］対応](https://book.impress.co.jp/books/1122101088)
-  - 2023/3/7, 鳥谷部昭寛/宮口光平/半田大樹, インプレスブックス, ¥2860
-- [AWS 認定資格試験テキスト AWS 認定 クラウドプラクティショナー](https://www.sbcr.jp/product/4797397406/)
-  - 2019/4/20, 山下光洋/海老原寛之, SB Creative, 288p, ¥2618
-- [AWS 認定資格試験テキスト AWS 認定ソリューションアーキテクト – アソシエイト 改訂第 3 版](https://www.sbcr.jp/product/4815617943/)
+- [ ] [AWS 認定資格試験テキスト AWS 認定ソリューションアーキテクト – アソシエイト 改訂第 3 版](https://www.sbcr.jp/product/4815617943/)
   - 2023/9/28, 佐々木拓郎/林晋一郎/金澤圭/小西秀和, SB Creative, 400p, ¥2860
-- [Amazon Web Services 基礎からのネットワーク＆サーバー構築改訂４版](https://bookplus.nikkei.com/atcl/catalog/23/04/06/00757/)
+- [ ] [Amazon Web Services 基礎からのネットワーク＆サーバー構築改訂４版](https://bookplus.nikkei.com/atcl/catalog/23/04/06/00757/)
   - 2023/5/8, 大澤文孝/玉川憲/片山暁雄/今井雄太, 日経 BP, 224p, ¥2970
+- [ ] [徹底攻略 AWS 認定 ソリューションアーキテクト − アソシエイト教科書 第 3 版［SAA-C03］対応](https://book.impress.co.jp/books/1122101088)
+  - 2023/3/7, 鳥谷部昭寛/宮口光平/半田大樹, インプレスブックス, ¥2860
+- [ ] [AWS 認定資格試験テキスト AWS 認定 クラウドプラクティショナー](https://www.sbcr.jp/product/4797397406/)
+  - 2019/4/20, 山下光洋/海老原寛之, SB Creative, 288p, ¥2618

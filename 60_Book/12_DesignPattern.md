@@ -1,5 +1,7 @@
 # デザインパターン
 
+- [ ] [なぜ依存を注入するのか　 DI の原理・原則とパターン](https://book.mynavi.jp/ec/products/detail/id=143373)
+  - 2024/5/17, Steven van Deursen/Mark Seemann, マイナビ Books, 656p, ¥4796
 - [x] [Head First デザインパターン 第 2 版 ―頭とからだで覚えるデザインパターンの基本](https://www.oreilly.co.jp/books/9784873119762/)
   - 2022/6, Eric Freeman/Elisabeth Robson, O'Reilly, 672p, ¥5280
   - 漫画みたいで分かりやすい, 最初に読むといい

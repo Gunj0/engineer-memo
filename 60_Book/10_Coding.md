@@ -1,5 +1,7 @@
 # コーディング
 
+- [ ] [Tidy First? ―個人で実践する経験主義的ソフトウェア設計](https://www.oreilly.co.jp/books/9784814400911/)
+  - 2024/12, Kent Beck, O’Reilly, 164p, ¥2640
 - [ ] [Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考](https://www.shuwasystem.co.jp/book/b620733.html)
   - 2023/01/28, Tom Long, 秀和システム, 432p, ¥3960
 - [ ] [Google のソフトウェアエンジニアリング ―持続可能なプログラミングを支える技術、文化、プロセス](https://www.oreilly.co.jp/books/9784873119656/)

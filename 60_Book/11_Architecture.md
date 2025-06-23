@@ -2,9 +2,11 @@
 
 - [ ] [改訂新版 良いコード／悪いコードで学ぶ設計入門 ―保守しやすい 成長し続けるコードの書き方](https://gihyo.jp/book/2025/978-4-297-14622-1)
   - 2024/12/25, 仙塲大也, 技術評論社, 408p, ¥3520
+- [ ] [手を動かしてわかるクリーンアーキテクチャ　ヘキサゴナルアーキテクチャによるクリーンなアプリケーション開発](https://book.impress.co.jp/books/1123101096)
+  - 2024/7/19, Tom Hombergs, インプレスブックス, 288p, ¥3300
 - [ ] [マイクロサービスアーキテクチャ 第 2 版](https://www.oreilly.co.jp/books/9784814400010/)
   - 2022/12, Sam Newman, O’Reilly, 664p, ¥4400
-- [ ] [ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ](https://www.oreilly.co.jp/books/9784873119823/)
+- [x] [ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ](https://www.oreilly.co.jp/books/9784873119823/)
   - 2022/3, Mark Richards/Neal Ford, O’Reilly, 436p, ¥4180
 - [x] [Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://asciidwango.jp/post/176293765750/clean-architecture)
   - 2018/7/27, Robert C. Martin, アスキードワンゴ, 352p, ¥3456

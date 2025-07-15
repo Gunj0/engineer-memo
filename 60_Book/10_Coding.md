@@ -2,24 +2,22 @@
 
 - [ ] [Tidy First? ―個人で実践する経験主義的ソフトウェア設計](https://www.oreilly.co.jp/books/9784814400911/)
   - 2024/12, Kent Beck, O’Reilly, 164p, ¥2640
-- [ ] [Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考](https://www.shuwasystem.co.jp/book/b620733.html)
-  - 2023/01/28, Tom Long, 秀和システム, 432p, ¥3960
+- [ ] [Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考](https://www.amazon.co.jp/dp/B0BSW72QKZ)
+  - 2023/01/28, Tom Long, 秀和システム, 432p, ¥3208
 - [ ] [Google のソフトウェアエンジニアリング ―持続可能なプログラミングを支える技術、文化、プロセス](https://www.oreilly.co.jp/books/9784873119656/)
   - 2021/11, Titus Winters/Tom Manshreck/Hyrum Wright, O’Reilly, 684p, ¥4840
-- [ ] [プログラムはなぜ動くのか 第３版 知っておきたいプログラミングの基礎知識](https://bookplus.nikkei.com/atcl/catalog/21/S00190/)
-  - 2021/5/17, 矢沢久雄, 日経 BP, 308p, ¥2640
-- [ ] [リファクタリング: 既存のコードを安全に改善する](https://www.ohmsha.co.jp/book/9784274224546/)
-  - 2019/12/1, Martin Fowler, オーム社, 456p, ¥4840
+- [ ] [プログラムはなぜ動くのか 第３版 知っておきたいプログラミングの基礎知識](https://www.amazon.co.jp/dp/B094J3CK1C)
+  - 2021/5/17, 矢沢久雄, 日経 BP, 308p, ¥2376
+- [ ] [リファクタリング: 既存のコードを安全に改善する](https://www.amazon.co.jp/dp/B0831M1RK5)
+  - 2019/12/1, Martin Fowler, オーム社, 456p, ¥4356
   - サンプルは Java
-- [ ] [Clean Code アジャイルソフトウェア達人の技](https://asciidwango.jp/post/171118672245/clean-code)
-  - 2017/12/18, Robert C. Martin, アスキードワンゴ, 528p, ¥4104
-- [x] [プリンシプル オブ プログラミング 3 年目までに身につけたい 一生役立つ 101 の原理原則](https://www.shuwasystem.co.jp/book/9784798046143.html)
-  - 2016/3/22, 上田勲, 秀和システム, 304p, ¥2420
+- [ ] [Clean Code アジャイルソフトウェア達人の技](https://www.amazon.co.jp/dp/4048930591)
+  - 2017/12/18, Robert C. Martin, アスキードワンゴ, 528p, ¥3762
+- [ ] [プリンシプル オブ プログラミング 3 年目までに身につけたい 一生役立つ 101 の原理原則](https://www.amazon.co.jp/dp/B071V7MY82)
+  - 2016/3/22, 上田勲, 秀和システム, 304p, ¥1960
   - キーワードの概要をざっくり知れる
-- [ ] [コーディングを支える技術 ――成り立ちから学ぶプログラミング作法](https://gihyo.jp/book/2013/978-4-7741-5654-5)
-  - 2013/4/24, 西尾泰和, 技術評論社, 264p, ¥2717
+- [ ] [コーディングを支える技術 ――成り立ちから学ぶプログラミング作法](https://www.amazon.co.jp/dp/B07JKLS4KM)
+  - 2013/4/24, 西尾泰和, 技術評論社, 264p, ¥2663
 - [x] [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック](https://www.oreilly.co.jp/books/9784873115658/)
   - 2012/6, Dustin Boswell/Trevor Foucher, O’Reilly, 260p, ¥2640
   - 文法の物理的に美しいコードが分かる
-- [ ] [レガシーコード改善ガイド](https://www.shoeisha.co.jp/book/detail/9784798116839)
-  - 2009/7/13, マイケル・C・フェザーズ, 翔泳社, 472p, ¥4620

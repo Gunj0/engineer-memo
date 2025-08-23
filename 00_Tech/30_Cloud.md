@@ -20,16 +20,19 @@
   - ネットワーク: Google Cloud VPC
   - ストレージ: Google Cloud Storage (GCS)
   - ホスティング: [Google App Engine](https://cloud.google.com/appengine)
+- [Digital Ocean](https://www.digitalocean.com/)
+  - サーバ: Droplets
+  - ストレージ: Spaces
+  - データベース: Managed Databases
+  - ホスティング: App Platform
 
 ## PaaS: プラットフォーム
 
 - [Vercel](https://vercel.com/)
   - ホスティング, React/Next.js 特化
-- [Digital Ocean](https://www.digitalocean.com/)
+- [Netlify](https://www.netlify.com/)
   - ホスティング
 - [Heroku](https://jp.heroku.com/)
-  - ホスティング
-- [Netlify](https://www.netlify.com/)
   - ホスティング
 
 ## BaaS: バックエンド
@@ -45,6 +48,25 @@
   - CDN, エッジサービス
 - [Fastly](https://www.fastly.com/jp/)
   - CDN, エッジサービス
+
+## Monitoring
+
+- [Datadog](https://www.datadoghq.com/ja/)
+- [Splunk](https://www.splunk.com/ja_jp)
+- [New Relic](https://newrelic.com/jp)
+
+## Payment
+
+- [Stripe](https://stripe.com/jp)
+- [Square](https://squareup.com/jp/ja)
+- [Paypal](https://www.paypal.com/jp/home)
+
+## CMS
+
+- [Strapi](https://strapi.io/)
+  - OSS, ヘッドレス CMS, Node.js
+- [microCMS](https://microcms.io/)
+  - ヘッドレス CMS
 
 ## 参考
 

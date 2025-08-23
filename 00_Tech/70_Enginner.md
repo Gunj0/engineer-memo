@@ -1,4 +1,4 @@
-# 有名エンジニア
+# 有名なエンジニア
 
 ## 日本
 
@@ -36,10 +36,14 @@
 
 ## 海外
 
-- ケント・ベック
+- Kent Beck
   - アジャイル開発考案
 - Gang of Four
   - デザインパターン考案
+  - Erich Gamma
+  - Richard Helm
+  - Ralph E. Johnson
+  - John Matthew Vlissides
 - スティーブ・ジョブズ
 
 ## 参考

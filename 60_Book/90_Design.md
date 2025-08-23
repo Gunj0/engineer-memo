@@ -1,6 +1,24 @@
 # デザイン
 
-- [ ] [オブジェクト指向 UI デザイン ── 使いやすいソフトウェアの原理](https://www.amazon.co.jp/dp/B0893RK6WC)
-  - 2020/6/5, ソシオメディア株式会社/上野学/藤井幸多, 技術評論社, 360p, ¥3212
+- [ ] [1 冊ですべて身につく HTML ＆ CSS と Web デザイン入門講座](https://www.amazon.co.jp/dp/B07PS1ZJN6)
+  - Kindle, 2593 件
 - [x] [ノンデザイナーズ・デザインブック ［第 4 版］](https://www.amazon.co.jp/dp/B01LW1BC2L)
   - 2016/6/30, Robin Williams, マイナビ出版, 260p, ¥2158
+  - Kindle, 1347 件
+- [ ] [これだけで基本がしっかり身につく HTML/CSS＆Web デザイン 1 冊目の本](https://www.amazon.co.jp/dp/B09DPJ1JCT)
+  - Kindle, 438 件
+- [ ] [ほんの一手間で劇的に変わる HTML ＆ CSS と Web デザイン実践講座](https://www.amazon.co.jp/dp/B08S2T8HZV)
+  - Kindle, 412 件
+- [ ] [動く Web デザイン アイディア帳](https://www.amazon.co.jp/dp/B08X4GLZTR)
+  - Kindle, 257 件
+- [ ] [オブジェクト指向 UI デザイン ── 使いやすいソフトウェアの原理](https://www.amazon.co.jp/dp/B0893RK6WC)
+  - 2020/6/5, ソシオメディア株式会社/上野学/藤井幸多, 技術評論社, 360p, ¥3212
+  - Kindle, 236 件
+- [ ] [1 冊ですべて身につく HTML ＆ CSS と Web デザイン入門講座［第 2 版］](https://www.amazon.co.jp/dp/B0CTM5Z6XQ)
+  - Kindle, 204 件
+- [ ] [Web デザイン良質見本帳［第 2 版］　目的別に探せて、すぐに使えるアイデア集](https://www.amazon.co.jp/dp/B09KN975VS)
+  - Kindle, 194 件
+- [ ] [はじめてでも迷わない Figma のきほん やさしく学べる Web サイト・バナーデザイン入門](https://www.amazon.co.jp/dp/B0CC96VRSP)
+  - Kindle, 104 件
+- [ ] [縁の下の UI デザイン ── 小さな工夫で大きな効果をもたらす実践 TIPS＆テクニック WEB+DB PRESS plus](https://www.amazon.co.jp/dp/B0C1MZ8NLB)
+  - Kindle, 34 件

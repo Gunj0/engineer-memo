@@ -1,4 +1,4 @@
-# ネットワーク
+# Web
 
 - [ ] [［改訂新版］プロになるための Web 技術入門](https://www.amazon.co.jp/dp/B0DN641NSP)
   - 2024/11/28, 小森裕介, 技術評論社, 528p, ¥3881
@@ -19,3 +19,6 @@
   - Kindle, 367 件
 - [ ] [DNS がよくわかる教科書](https://www.amazon.co.jp/dp/B07KQSRZ1S)
   - Kindle, 271 件
+- [ ] [Real World HTTP 第 3 版 ―歴史とコードに学ぶインターネットとウェブ技術](https://www.oreilly.co.jp/books/9784814400669/)
+  - Kindle, 7 件
+  - ムーザルチャンネルおすすめ

@@ -45,6 +45,12 @@
   - インフラコーディング
 - [Ansible](https://docs.ansible.com/)
   - OSS, インフラ構成管理, デプロイ自動化
+- [AWS CDK](https://docs.aws.amazon.com/ja_jp/cdk/v2/guide/home.html)
+  - AWS Cloud Development Kit, 色んな言語で書ける
+- [AWS CloudFormation](https://aws.amazon.com/jp/cloudformation/)
+  - JSON, YAML で書ける
+- [ecspresso](https://github.com/kayac/ecspresso)
+  - AWS ECS 用
 
 ## Analytics
 

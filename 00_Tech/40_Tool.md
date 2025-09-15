@@ -42,9 +42,10 @@
 ## IaC: Infrastructure as Code
 
 - [Terraform](https://www.terraform.io/)
-  - インフラコーディング
+  - インフラの仮想マシン・サーバといった箱を作成・提供する
 - [Ansible](https://docs.ansible.com/)
   - OSS, インフラ構成管理, デプロイ自動化
+  - インフラの箱の中にミドルウェア等の設定を投入する
 - [AWS CDK](https://docs.aws.amazon.com/ja_jp/cdk/v2/guide/home.html)
   - AWS Cloud Development Kit, 色んな言語で書ける
 - [AWS CloudFormation](https://aws.amazon.com/jp/cloudformation/)

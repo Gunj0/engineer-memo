@@ -193,4 +193,4 @@
 ## 参考
 
 - [Stack OverFlow Survey 2024](https://survey.stackoverflow.co/2024/technology)
-- [Stack OverFlow Survey 2025](https://survey.stackoverflow.co/2025/technology/)
+- [Stack OverFlow Survey 2025](https://survey.stackoverflow.co/2025/technology)

@@ -3,7 +3,7 @@
 ## Overview
 
 - 主に Web 系システムに関する知識をまとめたメモ
-- Gunj0 が書籍やネットから得た知識を自分なりにまとめたため、
+- Gunj0 が書籍やネットから得た知識を自分なりにまとめたため、正確性や網羅性は保証しません
 
 ## Contents
 
@@ -25,12 +25,12 @@
   - ドメイン駆動開発に関する知識
 - [18_Modeling](./18_Modeling)
   - モデリング/UML に関する知識
-- [25_DB](./25_DB)
+- [20_DB](./20_DB)
   - データベースに関する知識
 - [30_Tool](./30_Tool)
   - システム開発関連のツールに関する知識
-- [40_AWS](./40_AWS)
-  - AWS に関する知識
+- [40_Cloud](./40_Cloud)
+  - クラウドに関する知識
 - [50_Design](./50_Design)
   - 画面デザインに関する知識
 - [60_Book](./60_Book)
@@ -42,7 +42,6 @@
 
 - GitHub: [Gunj0](https://github.com/Gunj0)
 - X(Twitter): [@gunj0dev](https://x.com/gunj0dev)
-- BlueSky: [@gunj0.bsky.social](https://bsky.app/profile/gunj0.bsky.social)
 
 ## License
 

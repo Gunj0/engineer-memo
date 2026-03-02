@@ -1,25 +1,33 @@
 # Cloud
 
+- クラウド開発に関するサービス一覧
+
 ## IaaS: インフラ
 
 - [Amazon Web Services](https://aws.amazon.com/jp/)
-  - サーバ: Amazon EC2
-  - サーバーレス: AWS Lambda
-  - ネットワーク: Amazon VPC
-  - ストレージ: Amazon S3 (Simple Storage Service)
-  - ホスティング: [AWS Elastic Beanstalk](https://aws.amazon.com/jp/elasticbeanstalk/)
+  - サーバ: EC2
+  - データベース: RDS, DynamoDB
+  - ネットワーク: VPC
+  - ストレージ: S3
+  - サーバーレス: Lambda
+  - サーバーレスコンテナ: App Runner
+  - ホスティング: Elastic Beanstalk
 - [Microsoft Azure](https://azure.microsoft.com/ja-jp)
   - サーバ: Azure Virtual Machines
-  - サーバーレス: Azure Functions
+  - データベース: Azure SQL Database, Cosmos DB
   - ネットワーク: Azure Virtual Network (VNet)
   - ストレージ: Azure Blob Storage
-  - ホスティング: [Azure App Service](https://azure.microsoft.com/ja-jp/products/app-service)
+  - サーバーレス: Azure Functions
+  - サーバーレスコンテナ: Azure Container Apps
+  - ホスティング: App Service
 - [Google Cloud](https://cloud.google.com/)
   - サーバ: Google Compute Engine
-  - サーバーレス: Google Cloud Functions
+  - データベース: Cloud SQL, Firestore
   - ネットワーク: Google Cloud VPC
   - ストレージ: Google Cloud Storage (GCS)
-  - ホスティング: [Google App Engine](https://cloud.google.com/appengine)
+  - サーバーレス: Google Cloud Functions
+  - サーバーレスコンテナ: Google Cloud Run
+  - ホスティング: Google App Engine
 - [Digital Ocean](https://www.digitalocean.com/)
   - サーバ: Droplets
   - ストレージ: Spaces
@@ -34,26 +42,35 @@
   - ホスティング
 - [Heroku](https://jp.heroku.com/)
   - ホスティング
+- [Cloudflare Workers](https://developers.cloudflare.com/workers/)
+  - サーバーレス, エッジコンピューティング
+- [Render](https://render.com/)
+  - ホスティング
+- [Fly.io](https://fly.io/)
+  - ホスティング, エッジコンピューティング
 
 ## BaaS: バックエンド
 
 - [Firebase](https://firebase.google.com/?hl=ja)
-  - DB, 認証, 解析, ストレージ, Google 製
+  - NoSQL, 認証, 解析, ストレージ, Google 製
 - [Supabase](https://supabase.com/)
-  - Firebase 代替, PostgreSQL 基盤
+  - Firebase 代替, PostgreSQL 基盤, 認証
 
 ## CDN
 
 - [Cloudflare](https://www.cloudflare.com/ja-jp/)
-  - CDN, エッジサービス
+  - CDN, セキュリティ, パフォーマンス
 - [Fastly](https://www.fastly.com/jp/)
-  - CDN, エッジサービス
+  - CDN, エッジコンピューティング
 
 ## Monitoring
 
 - [Datadog](https://www.datadoghq.com/ja/)
+  - モニタリング
 - [Splunk](https://www.splunk.com/ja_jp)
+  - CISCO 製, ログ管理・分析
 - [New Relic](https://newrelic.com/jp)
+  - モニタリング
 
 ## Payment
 
@@ -71,3 +88,4 @@
 ## 参考
 
 - [Stack OverFlow Survey 2024](https://survey.stackoverflow.co/2024/technology)
+- [Stack OverFlow Survey 2025](https://survey.stackoverflow.co/2025/technology)

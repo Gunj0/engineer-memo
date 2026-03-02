@@ -2,24 +2,26 @@
 
 ## 日本
 
-- [catnose](https://catnose.me/)
-  - エンジニア兼デザイナー, Zenn, 静かなインターネット 開発
-- [なるがみ](https://x.com/nalgami)
-  - skeb 開発
+- [catnose](https://x.com/catnose99)
+  - エンジニア兼デザイナー, Zenn, 静かなインターネット, nani!?
+  - https://catnose.me/
+  - https://zenn.dev/catnose99
+- [竹馬光太郎](https://x.com/mizchi)
+  - パフォーマンス・チューニング, mizchi
+  - https://github.com/mizchi/ailab
+  - https://zenn.dev/mizchi
+- [Takuto Wada](https://x.com/t_wada)
+  - テスト駆動開発, t-wada
+  - https://github.com/twada
+  - https://t-wada.hatenablog.jp/
 - [まつもとゆきひろ](https://matz.rubyist.net/)
   - Ruby 開発者, Matz
-- 金子勇
-  - 故人, Winny 開発
-- 岩田聡
-  - 故人, 任天堂元社長
+- [なるがみ](https://x.com/nalgami)
+  - skeb 開発
 - [矢倉大夢](https://hiromu.phd/)
   - Python で有名, 論文等多め
 - 下村努
   - ディープラーニング研究
-- 山内奏人
-  - 音楽生成 AI「Amadeus Code」開発
-- [岩谷徹](https://www.toruiwaya.com/sc_mezzotint.aspx?lc=ja)
-  - パックマン開発
 - 伊藤淳一
   - Rails コアコミッター
   - selenium 開発
@@ -27,12 +29,8 @@
   - Google
 - [上杉周作](https://jp.chibicode.com/)
   - Vercel エンジニア
-- [福野泰介](https://fukuno.jig.jp/)
-  - OpenStreetMap 開発
 - [登大遊](http://dnobori.cs.tsukuba.ac.jp/ja/)
   - SoftEther VPN
-- [西村博之](https://x.com/hirox246)
-  - 2ch 開発
 
 ## 海外
 
@@ -44,7 +42,8 @@
   - Richard Helm
   - Ralph E. Johnson
   - John Matthew Vlissides
-- スティーブ・ジョブズ
+- DHH: David Heinemeier Hansson
+  - Ruby on Rails 開発者
 
 ## 参考
 

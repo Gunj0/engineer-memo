@@ -2,50 +2,91 @@
 
 ## 日本
 
+- [Matz](https://x.com/yukihiro_matz)
+  - Ruby 開発者
+  - まつもとゆきひろ
+    - GitHub: https://github.com/matz
+    - 個人サイト: https://matz.rubyist.net/
 - [catnose](https://x.com/catnose99)
-  - エンジニア兼デザイナー, Zenn, 静かなインターネット, nani!?
-  - https://catnose.me/
-  - https://zenn.dev/catnose99
-- [竹馬光太郎](https://x.com/mizchi)
-  - パフォーマンス・チューニング, mizchi
-  - https://github.com/mizchi/ailab
-  - https://zenn.dev/mizchi
-- [Takuto Wada](https://x.com/t_wada)
-  - テスト駆動開発, t-wada
-  - https://github.com/twada
-  - https://t-wada.hatenablog.jp/
-- [まつもとゆきひろ](https://matz.rubyist.net/)
-  - Ruby 開発者, Matz
-- [なるがみ](https://x.com/nalgami)
-  - skeb 開発
-- [矢倉大夢](https://hiromu.phd/)
-  - Python で有名, 論文等多め
-- 下村努
-  - ディープラーニング研究
-- 伊藤淳一
-  - Rails コアコミッター
-  - selenium 開発
-- 濱野純
-  - Google
-- [上杉周作](https://jp.chibicode.com/)
-  - Vercel エンジニア
-- [登大遊](http://dnobori.cs.tsukuba.ac.jp/ja/)
-  - SoftEther VPN
+  - Zenn, しずかなインターネット, nani!? 開発者
+  - エンジニア兼デザイナー
+    - GitHub: https://github.com/catnose99
+    - 個人サイト: https://catnose.me/
+    - Zenn: https://zenn.dev/catnose99
+    - しずかなインターネット: https://sizu.me/catnose
+- [t-wada](https://x.com/t_wada)
+  - テスト駆動開発翻訳者
+  - 和田卓人
+    - GitHub: https://github.com/twada
+    - 個人サイト: https://t-wada.hatenablog.jp/
+- [mizchi](https://x.com/mizchi)
+  - パフォーマンスチューニング
+  - 竹馬光太郎
+    - GitHub: https://github.com/mizchi/
+    - Zenn: https://zenn.dev/mizchi
+- [ゆーすけべー](https://x.com/yusukebe)
+  - Hono 開発者, Cloudflare エンジニア
+  - Wada Yusuke
+    - GitHub: https://github.com/yusukebe
+    - 個人サイト: https://yusukebe.com/
+- [maguro](https://x.com/yusuktan)
+  - Deno エンジニア
+    - GitHub: https://github.com/magurotuna
+    - 個人サイト: https://maguro.dev/
+- [mattn](https://x.com/mattn_jp)
+  - Go 言語コントリビューター
+    - GitHub: https://github.com/mattn
+    - 個人サイト: https://mattn.kaoriya.net/
+- [azu](https://x.com/azu_re)
+  - textlint 開発者
+    - GitHub: https://github.com/azu
+    - 個人サイト: https://efcl.info/ , https://jser.info/
+- [結城浩](https://x.com/hyuki)
+  - Java言語で学ぶデザインパターン入門著者
+    - GitHub: https://github.com/hyuki
+    - 個人サイト: https://www.hyuki.com/
+- [ミック](https://x.com/copinemickmack)
+  - DBエンジニア
+    - 個人サイト: https://mickindex.sakura.ne.jp/
+- [naoya](https://x.com/naoya_ito)
+  - 一休のCTO、はてなの元CTO
+  - 伊藤直也
+    - GitHub: https://github.com/naoya
+    - 個人サイト: https://naoya.dev/home
+- [Iwanaga Nobuyuki](https://x.com/ufcpp)
+  - 未確認飛行C 運営者
+    - GitHub: https://github.com/ufcpp
+    - 個人サイト: https://ufcpp.net/
+- [hikalium](https://x.com/hikalium)
+  - Google Chrome エンジニア
+    - GitHub: https://github.com/hikalium
+    - 個人サイト: https://hikalium.com/
 
 ## 海外
 
-- Kent Beck
-  - アジャイル開発考案
+- [Linus Torvalds](https://x.com/Linus__Torvalds)
+  - Linux カーネル, Git 開発者
+  - ワタシハリナックスチョットデキル
+    - GitHub: https://github.com/torvalds
+- [Kent Beck](https://x.com/KentBeck)
+  - テスト駆動開発著者, アジャイルマニフェスト草案者
+    - GitHub: https://github.com/kentbeck
+    - 個人サイト: https://kentbeck.com/
 - Gang of Four
   - デザインパターン考案
-  - Erich Gamma
+  - [Erich Gamma](https://x.com/ErichGamma)
   - Richard Helm
+    - Twitterなし
   - Ralph E. Johnson
+    - Twitterなし
   - John Matthew Vlissides
-- DHH: David Heinemeier Hansson
+    - Twitterなし
+- [DHH](https://x.com/dhh)
   - Ruby on Rails 開発者
-
-## 参考
-
-- [日本が誇るプログラマーの有名人 15 選！世界を変えた天才プログラマーも紹介](https://engineer-style.jp/articles/10771)
-- [知っておきたい海外有名エンジニア](https://qiita.com/hatahata/items/d8fba8edc76f5306e18a)
+  - David Heinemeier Hansson
+    - GitHub: https://github.com/DHH
+    - 個人サイト: https://dhh.dk/
+- [shadcn](https://x.com/shadcn)
+  - shadcn/ui ライブラリ開発者
+    - GitHub: https://github.com/shadcn
+    - 個人サイト: https://shadcn.com/

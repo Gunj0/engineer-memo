@@ -72,6 +72,9 @@
   - テスト駆動開発著者, アジャイルマニフェスト草案者
     - GitHub: https://github.com/kentbeck
     - 個人サイト: https://kentbeck.com/
+- [Martin Fowler](https://x.com/martinfowler)
+  - リファクタリング著者, アジャイルマニフェスト草案者
+    - 個人サイト: https://martinfowler.com/
 - Gang of Four
   - デザインパターン考案
   - [Erich Gamma](https://x.com/ErichGamma)

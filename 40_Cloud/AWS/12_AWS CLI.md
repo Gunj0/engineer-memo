@@ -28,6 +28,9 @@ AWS Region [us-east-1]: ap-northeast-1 # 東京リージョンを入力
 
 ## EC2 操作
 
+- SSH接続
+  - `ssh -i {キーペアファイル} ec2-user@{EC2のIPv4パブリックIP}`
+    - EC2 インスタンスに SSH 接続する, Amazon Linux 2 はユーザー名が `ec2-user`
 - EC2 インスタンス一覧表示
   - `aws ec2 describe-instances`
 - 既にある EC2 インスタンスの起動
@@ -43,3 +46,8 @@ AWS Region [us-east-1]: ap-northeast-1 # 東京リージョンを入力
   - `aws s3 ls`
 - S3 バケット作成
   - `aws s3 mb s3://{バケット名}`
+
+## 便利ツール
+
+- シェル環境のIPアドレス確認
+  - `curl http://checkip.amazonaws.com/`

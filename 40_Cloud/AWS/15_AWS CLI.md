@@ -5,6 +5,10 @@
   - スクリプトを使って自動化できる
   - 複数の AWS アカウントやリージョンを簡単に切り替えられる
 
+## リファレンス
+
+- [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/)
+
 ## インストール
 
 - [Install](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
@@ -25,6 +29,12 @@ AWS Region [us-east-1]: ap-northeast-1 # 東京リージョンを入力
 
 ブラウザが開き、ログイン済みのセッションで認証が完了する
 `% aws sts get-caller-identity` で認証情報が取得できることを確認する
+
+## アカウントの切り替え
+
+- `aws login --profile {プロファイル名}` でプロファイルを指定してログインする
+  - 初期設定では `default` というプロファイルが作成される
+- `aws configure list` で現在のプロファイルとリージョンを確認
 
 ## EC2 操作
 

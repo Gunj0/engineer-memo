@@ -3,7 +3,7 @@
 ## パッケージ管理
 
 - DNF
-  - RHEL系のパッケージ管理ツール
+  - RHEL系のパッケージ管理ツール(Amazon Linux 2023もDNFを使用)
   - `sudo dnf update -y` でシステム全体を最新にする
   - `sudo dnf install {パッケージ名}` でインストール
   - `sudo dnf list installed` でインストール済みパッケージの一覧表示
@@ -47,3 +47,11 @@
   - `sudo mysql`でMySQLシェルに接続, `exit` で終了
   - `sudo mysql -u root -p` でMySQLシェルに接続
   - `mysql -h {ホスト名} -u {ユーザー名} -p` でリモートの MySQL シェルに接続
+
+## dotnet
+
+- `sudo dnf install dotnet`: dotnet SDK とランタイムをインストール
+- `dotnet --version`: バージョン確認
+- `dotnet new webapp -o MyWebApp && cd MyWebApp`: 新しいWebアプリケーションを作成
+- `dotnet run --urls "http://0.0.0.0:5000"`: 外部アクセス可能にしてアプリ起動
+- EC2で実行する場合は、セキュリティグループでTCPのポート5000を開放する必要がある

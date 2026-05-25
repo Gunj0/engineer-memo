@@ -22,3 +22,5 @@
 - [ ] [Real World HTTP 第 3 版 ―歴史とコードに学ぶインターネットとウェブ技術](https://www.oreilly.co.jp/books/9784814400669/)
   - Kindle, 7 件
   - ムーザルチャンネルおすすめ
+- [ ] [［作って学ぶ］ブラウザのしくみ ──HTTP、HTML、CSS、JavaScript の裏側 WEB+DB PRESS plus](https://www.amazon.co.jp/dp/B0DKDHR8BL)
+  - Kindle, 34 件

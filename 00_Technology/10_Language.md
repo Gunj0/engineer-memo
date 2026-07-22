@@ -78,7 +78,7 @@
   - [Spring Boot](https://spring.io/projects/spring-boot)
 - Library
   - [Spring Framework](https://spring.io/projects/spring-framework)
-- Build Tool
+- Build Tool & Package Manager
   - [Maven](https://maven.apache.org/)
   - [Gradle](https://gradle.org/)
 

@@ -11,7 +11,7 @@
   - 2017/3/16, NRI ネットコム株式会社/小林恭平/坂本陽, SB Creative, 192p, ¥1663
 - [ ] [Web API: The Good Parts](https://www.oreilly.co.jp/books/9784873116860/)
   - 2014/11, 水野貴明, O’Reilly, 224p, ¥2420
-- [ ] [Web を支える技術 ―― HTTP，URI，HTML，そして REST](https://www.amazon.co.jp/dp/B07JK7FZH2)
+- [ ] [Web を支える技術 ―― HTTP, URI, HTML, そして REST](https://www.amazon.co.jp/dp/B07JK7FZH2)
   - 2010/4/8, 山本陽平, 技術評論社, 400p, ¥2770
   - Kindle, 368 件
 - [ ] [ネットワークはなぜつながるのか 第２版 知っておきたい TCP/IP、LAN、光ファイバの基礎知識](https://www.amazon.co.jp/dp/B077XSB8BS)

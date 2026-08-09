@@ -2,25 +2,33 @@
 
 - 主にコーディングに使用される主要なLLMとツール一覧
 
-## LLM
+## 主要LLMモデルファミリー一覧
 
 - [OpenAI](https://openai.com/)
-  - Codex
-- [Claude](https://claude.ai/)
-  - Claude Sonnet
+  - GPT
+  - GPT mini
+- [Anthropic](https://www.anthropic.com/)
+  - Claude Fable
   - Claude Opus
-- [Gemini](https://gemini.google.com/)
-  - Gemini
+  - Claude Sonnet
+  - Claude Haiku
+- [xAI](https://x.ai/)
+  - Grok
+  - Composer
+- [Google](https://gemini.google.com/)
+  - Gemini Pro
+  - Gemini Flash
 - [DeepSeek](https://www.deepseek.com/)
-  - DeepSeek
+  - DeepSeek-V
+  - DeepSeek-R
 - [Meta](https://www.llama.com/)
-  - Meta Llama
-- [Grok](https://grok.com/)
-  - X Grok
+  - Llama
 
-## 支援ツール
+## LLM支援ツール
 
-- GitHub Copilot
-- Amazon bedrock
-- Cursor
-- Claude Code
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Codex](https://openai.com/ja-JP/codex/)
+- [Cursor](https://cursor.com)
+- [Claude Code](https://claude.ai/code)
+- [Devin](https://www.devin.ai/)
+- [Amazon Bedrock](https://aws.amazon.com/jp/bedrock/)

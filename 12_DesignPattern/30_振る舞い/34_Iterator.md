@@ -11,3 +11,46 @@
 - 基本
 - 詳細
 - メリット
+
+### クラス図
+
+```mermaid
+classDiagram
+    class Iterable~Book~ {
+        <<interface>>
+        iterator()
+    }
+
+    class Iterator~Book~ {
+        <<interface>>
+        hasNext()
+        next()
+    }
+
+    class BookShelf {
+        books
+        last
+        getBookAt()
+        getLength()
+        appendBook()
+        iterator()
+    }
+
+    class BookShelfIterator {
+        bookShelf
+        index
+        hasNext()
+        next()
+    }
+
+    class Book {
+        name
+        getName()
+    }
+
+    Iterable~Book~ --> Iterator~Book~
+    BookShelf --|> Iterable~Book~
+    BookShelfIterator --|> Iterator~Book~
+    BookShelfIterator o--> BookShelf
+    BookShelf o--> Book
+```

@@ -1,4 +1,6 @@
-# AI
+# LLM一覧
+
+- 主にコーディングに使用される主要なLLMとツール一覧
 
 ## LLM
 
@@ -15,10 +17,6 @@
   - Meta Llama
 - [Grok](https://grok.com/)
   - X Grok
-- [Mistral](https://mistral.ai/)
-  - Mistral
-- [Perplexity](https://www.perplexity.ai/)
-  - Perplexity Sonar
 
 ## 支援ツール
 

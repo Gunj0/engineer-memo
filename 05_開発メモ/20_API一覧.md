@@ -1,12 +1,5 @@
 # API
 
-## 方式
-
-- REST
-  - 従来の CRUD 操作
-- GraphQL
-  - API 向けに作られた型安全なクエリ言語
-
 ## 公開 API
 
 - [Random User Generator](https://randomuser.me/)

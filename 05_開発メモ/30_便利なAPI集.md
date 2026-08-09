@@ -1,13 +1,10 @@
-# API
+# 便利なAPI集
 
-## 公開 API
+## API
 
 - [Random User Generator](https://randomuser.me/)
   - ランダムな架空ユーザー情報の json を返す
   - [例](https://randomuser.me/api)
-- Google Sheets API
-- Notion API
-- DeepL API
 
 ## 参考
 

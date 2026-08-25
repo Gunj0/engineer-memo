@@ -12,12 +12,10 @@
 
 ## RDBの種類
 
-- 無償
-  - MySQL
-  - MariaDB
-  - PostgreSQL
-  - SQLite
-- 有償
-  - Oracle Database
-  - Microsoft SQL Server
-  - Amazon Aurora
+- MySQL
+- MariaDB
+- PostgreSQL
+- SQLite
+- Oracle Database
+- Microsoft SQL Server
+- Amazon Aurora

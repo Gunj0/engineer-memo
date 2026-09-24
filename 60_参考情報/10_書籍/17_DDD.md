@@ -17,7 +17,7 @@
   - Kindle, 107 件
 
 - ドメイン駆動
-  - Jimmy Nisson 紙書籍？TDDも学べる
+  - Jimmy Nisson 紙書籍？TDDも学べる, C#, 実践的
 
 ## O'REILLY
 

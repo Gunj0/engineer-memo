@@ -10,13 +10,25 @@
 - [20\_設計思想](./20_設計思想)
   - コーディング原則、オブジェクト指向、デザインパターン、アーキテクチャ、DDD、TDD、UML などの設計・実装思想
 - [30\_実務開発](./30_実務開発)
-  - 個人開発メモ、Git、Docker、VSCode、Linux、nginxなどの実務で扱う技術
+  - 個人開発メモ、Git、Docker、VSCode、Linux、nginx などの実務で扱う技術
 - [40\_インフラ](./40_インフラ)
   - AWS、Azure、GCP などのクラウド・インフラ関連知識
 - [50_AI](./50_AI)
   - AI 用語、LLM 一覧、AI コーディング支援ツールなどの AI 関連知識
 - [60\_参考情報](./60_参考情報)
   - 書籍、動画教材、参考サイト、著名エンジニア
+
+## textlint 動作方法
+
+- 前提
+  - pnpm がインストールされていること
+  - VSCode で textlint 拡張機能がインストールされていること
+- パッケージの復元
+  - `pnpm i`
+
+## 使用している textlint ルール
+
+- [preset-ja-spacing](https://github.com/textlint-ja/textlint-rule-preset-ja-spacing)
 
 ## Author
 
